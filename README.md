@@ -3,8 +3,8 @@
 -	B3: Cấu hình database trong file .env
 -	B4: Truy cập vào folder chứa project => php artisan migrate
 -   B5: npm install 
--	B5: php artisan serve
--	B6: Truy cập vào localhost:8000/admin
+-	B6: php artisan serve
+-	B7: Truy cập vào localhost:8000/admin
 
 
 
