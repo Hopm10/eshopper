@@ -1,3 +1,12 @@
+-	B1: Clone code từ github từ link.
+-	B2: Tạo database.
+-	B3: Cấu hình database trong file .env
+-	B4: Truy cập vào folder chứa project => php artisan migrate
+-	B5: php artisan serve
+-	B6: Truy cập vào localhost:8000/admin
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
